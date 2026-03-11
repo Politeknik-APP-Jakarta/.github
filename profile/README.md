@@ -58,6 +58,7 @@ https://cdc.poltekapp.ac.id
 
 ### Backend
 
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
@@ -66,6 +67,11 @@ https://cdc.poltekapp.ac.id
 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge\&logo=dart)
+
+### Website
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
 
 ### Infrastructure
 
