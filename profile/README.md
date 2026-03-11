@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://poltekapp.ac.id/wp-content/uploads/2021/03/logo-poltekapp.png" width="120">
+  <img src="[https://poltekapp.ac.id/wp-content/uploads/2021/03/logo-poltekapp.png](https://upload.wikimedia.org/wikipedia/id/thumb/e/e4/Logo_Politeknik_APP.png/250px-Logo_Politeknik_APP.png)" width="120">
 </p>
 
 <h1 align="center">
