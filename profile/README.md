@@ -78,6 +78,8 @@ https://cdc.poltekapp.ac.id
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge\&logo=nginx)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-Web%20Server-blue?style=for-the-badge)
 
 ### Development
 
